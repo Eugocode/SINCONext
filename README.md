@@ -12,14 +12,20 @@ A UPV-themed catching and dodging game made using Python language and Pygame mod
 ![image](https://github.com/Eugocode/SINCONext/assets/65772510/8427a401-20ba-40c1-84a9-99ea6a6b6cb5)
 
 ### Credits
+![image](https://github.com/Eugocode/SINCONext/assets/65772510/473b7e78-ab05-42b0-b04b-53bd67d7e1d6)
 
 ### Choosing Characters
+![image](https://github.com/Eugocode/SINCONext/assets/65772510/e9b92eb5-cf3b-4f6f-99f2-25c65fae1560)
 
 ### Instructions
+![image](https://github.com/Eugocode/SINCONext/assets/65772510/8d130f2a-beea-4c03-a2d6-7a9b536e0d7b)
 
 ### Main Game
+![image](https://github.com/Eugocode/SINCONext/assets/65772510/256abc6a-625a-4482-895f-0d8faaf96362)
 
 ### Game paused
+![image](https://github.com/Eugocode/SINCONext/assets/65772510/8f07640e-8450-4832-9df7-e93b27a55f05)
 
 ### Gameover / Congratulations
+![image](https://github.com/Eugocode/SINCONext/assets/65772510/f6de3f17-d44c-480f-8658-70d57ebb7aa5)
 
