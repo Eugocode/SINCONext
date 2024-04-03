@@ -9,7 +9,7 @@ A UPV-themed catching and dodging game made using Python language and Pygame mod
 - Game can be paused.
 
 ### Welcome Page
-![image](https://github.com/Eugocode/SINCONext/assets/65772510/8427a401-20ba-40c1-84a9-99ea6a6b6cb5)
+![image](https://github.com/Eugocode/SINCONext/assets/65772510/c71279ec-5ded-4650-ba2c-d7a332af03bb)
 
 ### Credits
 ![image](https://github.com/Eugocode/SINCONext/assets/65772510/473b7e78-ab05-42b0-b04b-53bd67d7e1d6)
